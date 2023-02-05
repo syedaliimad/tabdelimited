@@ -1,0 +1,7 @@
+StudentName	StudentID	AdmissionDepartment	TestMarks
+Rajab           12635		Bioinformatics		92
+Wajid		76444		ComputerScience		87	 
+Abrar		74466		Mathematics		93
+Hassnain	76543		ArtificialIntelligence	79
+Danish		87654		DataScience		88
+Yasir		23456		Physics			77
